@@ -1,1 +1,1 @@
-# servicefabric_remoting
+Supporting Project for a blogpost on ServiceFabric Remoting

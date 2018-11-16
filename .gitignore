@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/servicefabric_remoting/v15
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/src/ServiceFabricRemoting/.vs/ServiceFabricRemoting/v15/Server/sqlite3
